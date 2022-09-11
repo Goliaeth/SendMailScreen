@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Send Mail Screen</string>
+    <string name="str_title">Title</string>
 </resources>
